@@ -1,0 +1,27 @@
+# UE5 Generated folders and files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.log
+*.log
+*.sln
+*.suo
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.dll
+*.exe
+*.pdb
+
+# Cache files
+*.DS_Store
+*.log
+
+# Builds
+Build/
